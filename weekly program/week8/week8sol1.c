@@ -30,7 +30,7 @@ void stringswap(char *s)
 }
 int main()
 {
-    char s[1000];  
+    char s[100];  
     int i;
     printf("Input : ");
     gets(s);
